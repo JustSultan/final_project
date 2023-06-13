@@ -1,0 +1,11 @@
+__pycache__
+.coverage
+.env
+.vscode
+.pytest_cache
+media/avatars
+media/posts
+.DS_Store
+.idea
+.git
+venv
