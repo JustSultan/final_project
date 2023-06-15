@@ -31,7 +31,7 @@ CSS
 
 # Последовательность действий
 
-    $ git clone https://github.com/JustSultan/final-project2
+    $ git clone https://github.com/JustSultan/final-project
 
     $ cd linkup/
 
